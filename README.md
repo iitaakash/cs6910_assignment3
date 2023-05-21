@@ -23,5 +23,3 @@ Edit the model path in `test.py` as shown below
 ```
 model = torch.load("best_model.pth")
 ```
-
-Change the hyperparameters in the `cfg.py` file.
